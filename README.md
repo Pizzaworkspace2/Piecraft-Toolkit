@@ -5,5 +5,6 @@ Compile to webpage single file format with piecraft src, drag it into your piecr
 **Steps**
 - Customize the `resource-pack.json` file to meet your vision.
 - For complex item and block functions and classes on the `resource-classes.js` file.
+- Add new images in the same folder.
 
   **This will be updated! Enjoy!**
